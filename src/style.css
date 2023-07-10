@@ -1,1 +1,8 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+li {
+  list-style-type: none;
+  padding: 8px;
+}
+ul {
+  text-align: left;
+}
